@@ -1,9 +1,9 @@
-# Quick_intro_of_Machine_Learning_algorithms
+# Quick_intro_of_Deep_Learning_algorithms
 
 Here are the codes of few machine learning approaches that used to train the network to predict the hot sales item of a grocery shop.
 These works are general warming up before drive into details on every each algorithms. Next coming works will be specifically focus on each of these algorithms and provide some project tutorials and explanation.
 
-# The machine learning algorithms that covered in this work as following:
+# The deep learning algorithms that covered in this work as following:
 1. Feedforward Neural Network
 2. Convolutional Neural Network (CNN)
 3. Deep Q-learning (DQN)
