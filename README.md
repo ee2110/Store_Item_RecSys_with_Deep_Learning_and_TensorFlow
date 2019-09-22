@@ -18,3 +18,19 @@ Some comparison of the performance of each algorithms against baseline method we
 And also the coverage. In this case, random coverage is much more highest. However, it does not indicate the quality of the algorithms. In this study, the results is not being emphasize as this work is aimed to get familiar with the machine learning approaches.
 
 <img src="images/coverage.PNG">
+
+
+
+
+
+
+# Dependencies
+<ul>
+  <li>TensorFlow</li>
+  <li>Numpy</li>
+  <li>Matplotlib</li>
+  <li>Pandas</li>
+  <li>Seaborn</li>
+  <li>Scikit-Learn</li>
+</ul>
+
