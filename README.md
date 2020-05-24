@@ -1,4 +1,4 @@
-# Quick_intro_of_Deep_Learning_algorithms
+# Deep Learning Algorithms for Store Item Recommendation
 
 Here are the codes of few machine learning approaches that used to train the network to predict the hot sales item of a grocery shop.
 These works are general warming up before drive into details on every each algorithms. Next coming works will be specifically focus on each of these algorithms and provide some project tutorials and explanation.
