@@ -3,7 +3,7 @@
 Here are the codes of few machine learning approaches that used to train the network to predict the hot sales item of a grocery shop.
 These works are general warming up before drive into details on every each algorithms. Next coming works will be specifically focus on each of these algorithms and provide some project tutorials and explanation.
 
-# The deep learning algorithms that covered in this work as following:
+## The deep learning algorithms that covered in this work as following:
 1. Feedforward Neural Network
 2. Convolutional Neural Network (CNN)
 3. Deep Q-learning (DQN)
@@ -15,7 +15,7 @@ Some comparison of the performance of each algorithms against baseline method we
 
 <img src="images/mark.PNG">
 
-And also the coverage. In this case, random coverage is much more highest. However, it does not indicate the quality of the algorithms. In this study, the results is not being emphasize as this work is aimed to get familiar with the machine learning approaches.
+And also the coverage. In this case, random coverage is much more highest. However, it does not indicate the quality of the algorithms. In this study, the results is not being emphasize since this work is aimed to get familiar with the machine learning approaches and apply in recommendation system.
 
 <img src="images/coverage.PNG">
 
